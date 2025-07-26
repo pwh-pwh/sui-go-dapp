@@ -1,0 +1,6 @@
+[Details]
+  Icon = "Icon.png"
+  Name = "counter"
+  ID = "com.example.counter"
+  Version = "1.0.0"
+  Build = 118
