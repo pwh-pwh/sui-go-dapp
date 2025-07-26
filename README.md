@@ -84,3 +84,18 @@ The smart contract is located in `contract/sources/counter.move`. It's a simple 
 - **`increment` function**: An entry function that increments the `counter` value by 1.
 
 The application interacts with a pre-deployed version of this contract on the Sui Testnet. The `PackageId` and `CountObjId` are hardcoded in `main.go`.
+## 🖼️ Screenshots
+
+Here's what the application looks like on different platforms:
+
+### Desktop
+
+![Desktop App](./img/desktop.png)
+
+### Web Browser
+
+![Web App](./img/web.png)
+
+### Mobile Device
+
+![Mobile App](./img/mobile.jpg)

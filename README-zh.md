@@ -84,3 +84,18 @@ go run .
 - **`increment` 函数**: 一个入口函数，用于将 `counter` 的值加 1。
 
 该应用与部署在 Sui 测试网上的此合约的预部署版本进行交互。`PackageId` 和 `CountObjId` 已在 `main.go` 中硬编码。
+## 🖼️ 截图
+
+以下是应用在不同平台上的外观：
+
+### 桌面端
+
+![桌面应用](./img/desktop.png)
+
+### 浏览器端
+
+![Web 应用](./img/web.png)
+
+### 移动端
+
+![移动应用](./img/mobile.jpg)
